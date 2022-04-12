@@ -1,0 +1,9 @@
+{ 
+	"applicationid":"You're Discord Application Code",
+ 	"name":"Name of what you play ex.: VALORANT",
+  "details":"Put anything u want here",
+ 	"state":"Anything u want",
+ 	"imagename":"You're rich presence picture name in discord developer",
+  "smallimgname":"You're rich presence picture name in discord developer",
+ 	"type":"PLAYING"
+}
